@@ -1,5 +1,4 @@
 # RailsTumblr
-# Rails Tumblr
 
 > This is a Ruby on Rails practice application that allows users to add posts. Styled after 'Tumblr'.
 
